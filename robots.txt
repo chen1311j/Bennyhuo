@@ -14,3 +14,4 @@ Disallow: /fancybox/
 
 Sitemap: https://www.bennyhuo.com/sitemap.xml
 Sitemap: https://www.bennyhuo.com/baidusitemap.xml
+
