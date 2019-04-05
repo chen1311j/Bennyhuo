@@ -1,13 +1,3 @@
 https://www.bennyhuo.com/2019/04/01/basic-coroutines/
 https://www.bennyhuo.com/2019/03/23/nan-equals/
 https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/
-https://www.bennyhuo.com/2019/02/18/this-type/
-https://www.bennyhuo.com/2019/02/05/2019-02-05/
-https://www.bennyhuo.com/2019/01/07/2019-01-07/
-https://www.bennyhuo.com/2018/12/31/kotlin-native-jni-dynamic/
-https://www.bennyhuo.com/2018/12/17/kotlin_native_jni/
-https://www.bennyhuo.com/2018/12/02/deepcopy/
-https://www.bennyhuo.com/2018/11/26/ReleasableVar/
-https://www.bennyhuo.com/2018/11/18/2018-JetBrains-Day/
-https://www.bennyhuo.com/2018/10/03/apt-tutorials/
-https://www.bennyhuo.com/2018/10/02/kotlin-community-cn/
