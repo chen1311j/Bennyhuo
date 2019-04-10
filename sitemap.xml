@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.bennyhuo.com/2019/04/11/blog/%E5%8D%8F%E7%A8%8B3/</loc>
+    
+    <lastmod>2019-04-10T23:09:24.115Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.bennyhuo.com/2019/04/08/coroutines-start-mode/</loc>
     
     <lastmod>2019-04-08T04:24:14.918Z</lastmod>
@@ -23,14 +30,7 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
-    
-    <lastmod>2019-04-06T01:23:19.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
+    <loc>https://www.bennyhuo.com/2018/12/17/kotlin_native_jni/</loc>
     
     <lastmod>2019-04-06T01:23:19.972Z</lastmod>
     
@@ -51,14 +51,21 @@
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2019/03/23/nan-equals/</loc>
+    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
     
     <lastmod>2019-04-06T01:23:19.972Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.bennyhuo.com/2018/12/17/kotlin_native_jni/</loc>
+    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
+    
+    <lastmod>2019-04-06T01:23:19.972Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bennyhuo.com/2019/03/23/nan-equals/</loc>
     
     <lastmod>2019-04-06T01:23:19.972Z</lastmod>
     

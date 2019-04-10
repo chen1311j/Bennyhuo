@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bennyhuo.com/2019/04/11/blog/%E5%8D%8F%E7%A8%8B3/</loc>
+    <lastmod>2019-04-10</lastmod>
+  </url>  <url>
     <loc>https://www.bennyhuo.com/2019/04/08/coroutines-start-mode/</loc>
     <lastmod>2019-04-08</lastmod>
   </url>  <url>
     <loc>https://www.bennyhuo.com/2018/11/18/2018-JetBrains-Day/</loc>
     <lastmod>2019-04-06</lastmod>
   </url>  <url>
-    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
-    <lastmod>2019-04-06</lastmod>
-  </url>  <url>
-    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
+    <loc>https://www.bennyhuo.com/2018/12/17/kotlin_native_jni/</loc>
     <lastmod>2019-04-06</lastmod>
   </url>  <url>
     <loc>https://www.bennyhuo.com/2018/12/02/deepcopy/</loc>
@@ -19,10 +19,13 @@
     <loc>https://www.bennyhuo.com/2018/10/02/kotlin-community-cn/</loc>
     <lastmod>2019-04-06</lastmod>
   </url>  <url>
-    <loc>https://www.bennyhuo.com/2019/03/23/nan-equals/</loc>
+    <loc>https://www.bennyhuo.com/2019/03/11/kotlin-nodejs/</loc>
     <lastmod>2019-04-06</lastmod>
   </url>  <url>
-    <loc>https://www.bennyhuo.com/2018/12/17/kotlin_native_jni/</loc>
+    <loc>https://www.bennyhuo.com/2019/04/01/basic-coroutines/</loc>
+    <lastmod>2019-04-06</lastmod>
+  </url>  <url>
+    <loc>https://www.bennyhuo.com/2019/03/23/nan-equals/</loc>
     <lastmod>2019-04-06</lastmod>
   </url>  <url>
     <loc>https://www.bennyhuo.com/2018/10/03/apt-tutorials/</loc>
